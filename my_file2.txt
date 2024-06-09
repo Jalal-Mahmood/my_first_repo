@@ -4,3 +4,5 @@ second chagnes added to file2
 
 third changes to the file2 
 
+fourth changes to the file3
+

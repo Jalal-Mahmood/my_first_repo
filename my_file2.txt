@@ -2,3 +2,5 @@ my file 2 changes
 
 second chagnes added to file2
 
+third changes to the file2 
+
